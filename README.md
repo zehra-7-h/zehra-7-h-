@@ -1,6 +1,6 @@
-# Hi , I'm Fatma Zehra Karavar 👋
+# Hi , I'm Fatma Zehra Karavar 
 
-I am a 2nd-year Computer Engineering student at **Kocaeli Health and Technology University**, passionate about the intersection of **Artificial Intelligence** and **Health Technologies**.
+I am a 2nd-year Computer Engineering student at **Kocaeli Health and Technology University**.
 
 ### 🚀 Current Focus
 - **PulmoTrack-AI**: Currently developing a respiratory health tracking system for the *Breathe4Health Hackathon*.
